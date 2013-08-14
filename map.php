@@ -23,7 +23,7 @@ var func=function(){
 alert(map(func, [10, 20, 30]));  // = [1,2,3]
 </script>
 <body>
-
+	<p>Hello!</p>
 
 </body>
 
